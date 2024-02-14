@@ -1,5 +1,5 @@
-film = input()
-cinema = input()
-time = input()
+movie = input("Enter the movie: ")
+cinema = input("The cinema: ")
+time = input("The time: ")
 
-print(f"Билет на \"{ film }\" в \"{ cinema }\" на \"{ time }\" забронирован.")
+print(f"Билет на \"{ movie }\" в \"{ cinema }\" на \"{ time }\" забронирован.")
